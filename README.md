@@ -1,6 +1,6 @@
-# 🚀 100 Python Projects
+# 🚀 Python Projects
 
-A collection of **100 Python projects** built to improve programming skills through consistent, hands-on practice.
+A collection of **Python projects** built to improve programming skills through consistent, hands-on practice.
 
 Each project is designed to strengthen problem-solving ability and practical software development experience.
 
