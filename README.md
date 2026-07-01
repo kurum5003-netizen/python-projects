@@ -27,7 +27,7 @@ Each project folder may include:
 
 This repository is created to document my learning journey through practical Python projects.
 
-The focus is on writing clean code, building small applications, and improving problem-solving skills over time.
+The focus is on writing clean code, building applications, and improving problem-solving skills over time.
 
 ---
 
