@@ -1,7 +1,7 @@
 import random
-import hangmanword
+import wordlist
 
-t_tahmin=random.choice(hangmanword.wordlist)
+t_tahmin=random.choice(wordlist.wordlist)
 
 placeholder= " "
 word_length=len(t_tahmin)
