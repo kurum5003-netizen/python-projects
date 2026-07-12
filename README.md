@@ -14,7 +14,7 @@ Project-001/
 Project-002/
 Project-003/
 ...
-Project-100/
+
 
 Each project folder may include:
 - `main.py` → Source code
